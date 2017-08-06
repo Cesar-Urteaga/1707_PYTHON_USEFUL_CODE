@@ -1,6 +1,6 @@
 ##  Resources
 
-I found this Web page useful because it has a list of packages that allows you to work with Excel files: [http://www.python-excel.org/](http://www.python-excel.org/).
+I found this Web page useful because it has a set of packages that allows you to work with Excel files: [http://www.python-excel.org/](http://www.python-excel.org/).
 
 ##  Description
 
