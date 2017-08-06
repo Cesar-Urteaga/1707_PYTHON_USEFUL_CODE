@@ -1,0 +1,7 @@
+# Author            : Cesar R. Urteaga Reyesvera.
+# Creation date     : July 26, 2017.
+
+# ---------------------------------------------------------------------- FOLDERS
+# ------------------------------------------------------------------------ FILES
+# Ignore the Sublime's project workspace file.
+*.sublime-workspace
