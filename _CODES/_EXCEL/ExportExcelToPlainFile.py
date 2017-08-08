@@ -27,6 +27,8 @@
 #                                            must be of the form:
 #                                            ("target-column name",
 #                                             "created-column name")
+#                                            "created-column-names" must be
+#                                            unique.
 #                 lookup_percentage        - A float value between 0 and 1.
 #                 character_separator      - The character separator that you
 #                                            want to use to delimit each datum.
